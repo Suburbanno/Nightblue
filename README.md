@@ -1,2 +1,1 @@
-# BjDark
-Theme para o bjshare.me
+# BJ-Share Dark by Darckw16
