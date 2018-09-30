@@ -186,7 +186,7 @@ textarea {
 }
 
 .r50 {
-    color: #437318;
+    color: #5037df;
 }
 
 .r99 {
@@ -333,7 +333,6 @@ div.linkbox {
     padding: 18px 0;
     color: #686c70;
     background-color: #282b30;
-    text-transform: uppercase;
 }
 
 #menu ul {
@@ -374,7 +373,7 @@ div.linkbox {
     right: 0;
     top: -30px;
     vertical-align: top;
-    color: #8d8e90;
+    color: #bf2ac2;
     font-size: 12px;
     z-index: 9999;
 }
@@ -1019,7 +1018,7 @@ button[type=button] {
 button {
     -webkit-border-radius: 6px;
     border-radius: 6px;
-    padding-top: 30px;
+    padding-top: 12px;
 }
 
 button:hover,
@@ -1435,12 +1434,12 @@ ol {
 }
 
 #stats_seeding {
-    color: #7fba39;
+    color: #30ca25;
 }
 
 #stats_leeching,
 #stats_required {
-    color: #f32433;
+    color: #ed2433;
     font-weight: 700;
 }
 
@@ -1596,7 +1595,7 @@ input[type=search]::-webkit-search-results-decoration {
 #menudrop ul a {
     display: block;
     color: #0A0A0A;
-    font-size: 15px;
+    font-size: 17px;
     line-height: 22px;
     padding: .6em 1.1%;
     height: 4px;
@@ -1668,4 +1667,8 @@ input[type=search]::-webkit-search-results-decoration {
 
 #menudrop ul li:hover>ul {
     display: block;
+}
+
+#noteAlertMsg {
+    display: none;
 }
