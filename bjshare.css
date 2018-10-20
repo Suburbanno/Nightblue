@@ -1723,7 +1723,7 @@ ul.bjqs-controls.v-centered li.bjqs-prev a {
     left: 30px;
     min-width: 90px;
     margin-bottom: 0;
-    background: #2c485a;/*    background: #3498db;*/
+    background: #414750;/*    background: #3498db;*/
     cursor: pointer;
     /*background-image: -webkit-linear-gradient(top, #3498db, #256f9c);
     background-image: -moz-linear-gradient(top, #3498db, #256f9c);
@@ -1808,7 +1808,7 @@ ul.bjqs-controls.v-centered li a:hover {
     background-image: -ms-linear-gradient(top, #38a6eb, #318ecc);
     background-image: -o-linear-gradient(top, #38a6eb, #318ecc);
     background-image: linear-gradient(to bottom, #38a6eb, #318ecc);*/
-    background: #414750;
+    background: #43474d;
     text-decoration: none;
 }
 
