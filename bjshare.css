@@ -386,7 +386,6 @@ div.linkbox {
     display: inline-block;
     box-sizing: border-box;
     border-radius: 3px;
-    background: rgba(40, 43, 48, .5);
 }
 
 #userinfo ul li {
