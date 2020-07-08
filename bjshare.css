@@ -1738,7 +1738,7 @@ ul.bjqs-controls.v-centered li.bjqs-next a {
 }
 
 ul.bjqs-controls.v-centered li.bjqs-prev a {
-    margin-top: 182px;
+    margin-top: 200px;
     left: 30px;
     min-width: 90px;
     margin-bottom: 0;
@@ -1793,12 +1793,10 @@ p.bjqs-caption {
 }
 
 #container {
-    float: right;
     position: relative;
     width: 274px;
     padding-top: 4px;
     padding-bottom: 0px;
-    float: bottom;
 }
 
 #banner-fade,
