@@ -1847,3 +1847,15 @@ p.bjqs-caption {
     -moz-border-radius: 6px;
     border-radius: 6px;
 }
+
+#irtopo span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -8px;
+    margin-top: -12px;
+    height: 0;
+    width: 0;
+    border: 8px solid transparent;
+    border-bottom-color: #fff;
+}
