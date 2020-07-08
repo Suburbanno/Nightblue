@@ -91,6 +91,10 @@ h2 {
     background: url(images/locked_sticky.png) no-repeat center center;
 }
 
+.read_locked_ {
+    background: url(images/locked_sticky.png) no-repeat center center;
+}
+
 #header,
 body,
 html {
@@ -270,7 +274,7 @@ ul.thin li {
 
 #header {
     padding: 0;
-    background: url(images/background_diamond.jpg) center top no-repeat #282B30;
+    background-color: #282B30;
 }
 
 #content {
@@ -339,7 +343,7 @@ div.linkbox {
 
 #logo {
     height: 197px;
-    background: url(https://ialexsilva.com/bjshare_themes/img/logo.png) top center no-repeat;
+    background: url(images/logo.png) top center no-repeat;
 }
 
 #logo a {
@@ -858,13 +862,13 @@ ul.poll li.graph {
 .show_torrents {
     width: 24px;
     height: 24px;
-    background: url(images/show.svg) center center no-repeat;
+    background: url(images/show.png) center center no-repeat;
 }
 
 .hide_torrents {
     width: 24px;
     height: 24px;
-    background: url(images/hide.svg) center center no-repeat;
+    background: url(images/hide.png) center center no-repeat;
 }
 
 .show_torrents_link {
