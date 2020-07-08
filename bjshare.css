@@ -70,6 +70,14 @@ h2 {
     background: url(images/music.png) center center no-repeat;
 }
 
+.read {
+    background: url(images/read.png) no-repeat center center;
+}
+
+.unread {
+    background: url(images/unread.png) no-repeat center center;
+}
+
 #header,
 body,
 html {
