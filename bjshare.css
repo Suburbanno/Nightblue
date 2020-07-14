@@ -6,17 +6,6 @@ Modifications & updates: @Suburbanno
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500;700&display=swap');
 
-.cats_applications,
-.cats_audiobooks,
-.cats_comedy,
-.cats_comics,
-.cats_ebooks,
-.cats_elearningvideos,
-.cats_music {
-    width: 28px;
-    height: 28px;
-}
-
 #menu ul li a:hover,
 a,
 a:hover {
@@ -33,7 +22,7 @@ img {
 }
 
 #footer p {
-    text-align: center !important;
+    text-align: center;
 }
 
 #menu ul li,
@@ -48,34 +37,6 @@ img {
 #userinfo ul li,
 .nobr {
     white-space: nowrap;
-}
-
-.cats_applications {
-    background: url(images/apps.png) center center no-repeat;
-}
-
-.cats_audiobooks {
-    background: url(images/audiobook.png) center center no-repeat;
-}
-
-.cats_comedy {
-    background: url(images/comedy.png) center center no-repeat;
-}
-
-.cats_comics {
-    background: url(images/comics.png) center center no-repeat;
-}
-
-.cats_ebooks {
-    background: url(images/ebook.png) center center no-repeat;
-}
-
-.cats_elearningvideos {
-    background: url(images/elearning.png) center center no-repeat;
-}
-
-.cats_music {
-    background: url(images/music.png) center center no-repeat;
 }
 
 .read {
@@ -318,10 +279,6 @@ ul.thin li {
     margin: 0 auto;
     width: 1000px;
     padding: 1em 0;
-}
-
-#footer p {
-    text-align: left;
 }
 
 #menu,
