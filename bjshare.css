@@ -28,8 +28,11 @@ img {
     border: none;
 }
 
-#footer p,
-h2 {
+#footer h2 {
+    text-align: center;
+}
+
+#footer p {
     text-align: center;
 }
 
