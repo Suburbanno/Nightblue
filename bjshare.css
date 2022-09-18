@@ -414,9 +414,9 @@ div.linkbox {
     padding: 10px 0 10px 18px;
     font-size: 12pt;
     color: #686c70;
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    border-radius: 30px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
 }
 
 #searchbars input:focus {
